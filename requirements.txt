@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pillow
+rembg
+transformers
+diffusers
+torch
+accelerate
+onnxruntime
+onnxruntime-gpu
+numpy==1.26.4
+python-multipart
