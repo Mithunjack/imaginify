@@ -52,7 +52,6 @@
 ├── backend                 # FastAPI Backend
 │   ├── main.py
 │   ├── requirements.txt    # To be created if needed
-│   ├── Procfile             # For Railway deployment
 ├── frontend                 # Vue 3 Frontend
 │   ├── src
 │   │   ├── App.vue
