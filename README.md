@@ -10,8 +10,6 @@
 </tr></table>
 
 
-
-
 ## 📌 Project Overview
 
 **Imaginify** is a full-stack AI-powered application that allows users to:
@@ -68,6 +66,9 @@
 ```
 
 ---
+
+## 🦞 Project architecture 
+![diagram](https://github.com/user-attachments/assets/00f905cc-6b7b-493f-94fb-90199a78475d)
 
 ## 🚀 How to Run (Development)
 
